@@ -23,3 +23,6 @@ This project allows users to manage their daily tasks while practicing Python fu
 -Conditional statements('if-else')
 -Lists
 -User input('input()')
+
+## Author
+Ananya Goyal
